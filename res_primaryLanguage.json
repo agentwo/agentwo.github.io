@@ -1,0 +1,91 @@
+{
+    "basic_info": {
+      "description_header": "Selam",
+      "description": "Ben Agent. Eski sistem yöneticisi, güncel Web3 geliştiricisi ve Blok zinciri mühendisi. 2015ten beri bilgisayar ve bilgisayar teknolojilerine ilgi duyuyorum. Pek çok bilişim firmasında çalıştım. Pek çok dil ve teknolojiye hakimim. ",
+      "section_name": {
+        "about": "Hakkımda",
+        "projects": "Projeler",
+        "skills": "Yetenekler",
+        "experience": "Deneyimler"
+      }
+    },
+    "experience": [
+      {
+        "company": "DiSoft",
+        "title": "Python Geliştiricisi",
+        "years": "02/04/2020 - 24/06/2020",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        "company": "EasySoft",
+        "title": "Geliştirici Takım Lideri",
+        "years": "13/07/2020 - 02/10/2020",
+        "mainTech": [ 
+          "NodeJS"
+        ],
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        "company": "Trendyol",
+        "title": "Sistem Yöneticisi",
+        "years": "28/01/2021 - 04/08/2021",
+        "mainTech": [
+          "RedHat Enterprise Linux"
+        ],
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        "company": "Akınsoft",
+        "title": "Ana Sistem Yöneticisi",
+        "years": "24/11/2021 - 02/05/2022",
+        "mainTech": [
+          "Debian"
+        ],
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        "company": "Ideaturka",
+        "title": "Kurucu Ortak",
+        "years": "22/06/2022",
+        "mainTech": [
+          "Corporation"
+        ],
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        "company": "DiSpectra",
+        "title": "Kurucu Ortak",
+        "years": "14/08/2022",
+        "mainTech": [
+          "Corporation"
+        ],
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        "company": "CK Finance",
+        "title": "Web3 Geliştiricisi",
+        "years": "12/07/2022 - Continues",
+        "mainTech": [
+          "NodeJS"
+        ],
+        "technologies": [
+          ""
+        ]
+      }
+    ]
+  }

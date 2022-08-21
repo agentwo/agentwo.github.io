@@ -1,0 +1,91 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "I'm Agent. Old system administrator, current Web3 developer and Blockchain engineer. I have been interested in computers and computer technologies since 2015. I have worked in many IT companies. I am proficient in many languages and technologies.",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experiences"
+    }
+  },
+  "experience": [
+    {
+      "company": "DiSoft",
+      "title": "Python Developer",
+      "years": "02/04/2020 - 24/06/2020",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "EasySoft",
+      "title": "Dev Team Leader",
+      "years": "13/07/2020 - 02/10/2020",
+      "mainTech": [ 
+        "NodeJS"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "Trendyol",
+      "title": "System Admin",
+      "years": "28/01/2021 - 04/08/2021",
+      "mainTech": [
+        "RedHat Enterprise Linux"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "Akınsoft",
+      "title": "Main System Admin",
+      "years": "24/11/2021 - 02/05/2022",
+      "mainTech": [
+        "Debian"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "Ideaturka",
+      "title": "Co-Founder",
+      "years": "22/06/2022",
+      "mainTech": [
+        "Corporation"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "DiSpectra",
+      "title": "Co-Founder",
+      "years": "14/08/2022",
+      "mainTech": [
+        "Corporation"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "Web3 Developer",
+      "title": "CK Finance",
+      "years": "12/07/2022 - Continues",
+      "mainTech": [
+        "NodeJS"
+      ],
+      "technologies": [
+        ""
+      ]
+    }
+  ]
+}

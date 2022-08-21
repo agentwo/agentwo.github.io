@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Agent Wo",
+      "titles": [ "Linux System Admin", "Web3 & Blockchain Engineer", "Founder of DiSpectra", "Project Manager" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/agentwo",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/agentwodotsh",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "50"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "50"
+        },
+        {
+          "name": "VueJS",
+          "class": "devicon-vuejs-plain",
+          "level": "40"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "40"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "75"
+        },
+        {
+          "name": "Solidity",
+          "class": "devicon-solidity-plain",
+          "level": "85"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "65"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "100"
+        }
+      ]
+    }
+  }
